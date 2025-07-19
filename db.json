@@ -1558,14 +1558,14 @@
   "users": [
     {
       "id": "1",
-      "username": "Bob",
+      "username": "user1",
       "password": "123456",
       "email": "bob@gmail.com"
     },
     {
       "id": "2",
-      "username": "Alice",
-      "password": "09876",
+      "username": "user2",
+      "password": "1234567",
       "email": "alice@gmail.com"
     }
   ]
