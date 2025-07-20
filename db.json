@@ -1560,13 +1560,13 @@
       "id": "1",
       "username": "user1",
       "password": "123456",
-      "email": "bob@gmail.com"
+      "email": "user1@gmail.com"
     },
     {
       "id": "2",
       "username": "user2",
       "password": "1234567",
-      "email": "alice@gmail.com"
+      "email": "user2@gmail.com"
     }
   ]
 }
